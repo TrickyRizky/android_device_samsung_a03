@@ -16,9 +16,9 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/a03/device.mk)
 
 PRODUCT_DEVICE := a03
-PRODUCT_NAME := omni_a03
+PRODUCT_NAME := twrp_a03
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A035M
+PRODUCT_MODEL := SM-A035F
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
