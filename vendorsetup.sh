@@ -5,10 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_a03-user
-add_lunch_combo omni_a03-userdebug
-add_lunch_combo omni_a03-eng
-
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_BUILD_TYPE="Unofficial"
 export OF_MAINTAINER="CustomBuild"
